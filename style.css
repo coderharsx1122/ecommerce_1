@@ -1027,6 +1027,13 @@ padding: 20px 15px;
 #shopping-body .bodytxt h1{
     font-size: 30px;
 }
+/* about */
+#about-body .bodytxt h1{
+    font-size: 25px;
+}
+#about-body .bodytxt p{
+    font-size: 20px;
+}
 
 /* cart page */
 #cart-details { 
