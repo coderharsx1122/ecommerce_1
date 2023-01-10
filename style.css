@@ -956,7 +956,7 @@ padding: 20px 15px;
 }
 
 /* for small devices */
-@media (max-width:455px) {
+@media (max-width:600px) {
     #navbar {
         width: 200px;
     }
