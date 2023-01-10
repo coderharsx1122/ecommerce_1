@@ -1021,6 +1021,9 @@ padding: 20px 15px;
    /* position: absolute; */
    bottom: 0;
 }
+ #footer .row1 .col p,#footer .row1 .col a{
+    font-size: 15px;
+}
 #shopping-body .bodytxt h1{
     font-size: 30px;
 }
